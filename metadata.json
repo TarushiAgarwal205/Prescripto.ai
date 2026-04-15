@@ -1,0 +1,10 @@
+{
+  "name": "Prescripto AI.01",
+  "description": "An intelligent medical prescription analyzer that converts messy handwriting into clear instructions using Gemini 3 Pro and provides accessibility features like Text-to-Speech.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "C7": [],
+  "aq": []
+}
